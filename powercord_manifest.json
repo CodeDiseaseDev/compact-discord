@@ -1,0 +1,8 @@
+{
+    "name": "Compact Discord",
+    "description": "Allows Discord to fit better on smaller screens.",
+    "version": "0.0.1",
+    "author": "CodeDisease",
+    "theme": "theme.css",
+    "license": "MIT"
+}

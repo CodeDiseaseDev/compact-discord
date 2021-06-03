@@ -1,0 +1,51 @@
+.membersWrap-2h-GB4 {
+	transition: 0.5s ease;
+	transform: translateX(180px);
+}
+
+.membersWrap-2h-GB4:hover {
+	transform: translateX(0px);
+	box-shadow: -1px 0px 20px rgb(30,30,35);
+}
+
+.messagesWrapper-1sRNjr {
+	width: calc(100% + 180px);
+}
+
+.form-2fGMdU {
+	width: calc(100% + 145px);
+}
+
+.form-2fGMdU::before {
+	width: 0;
+}
+
+.sidebar-2K8pFh {
+	height: 100%;
+	width: 80px;
+	transition: 0.5s;
+}
+
+.sidebar-2K8pFh:hover {
+	width: calc(200px);
+}
+
+.listItem-GuPuDH {
+	transform: scale(0.9);
+	margin: 1px;
+}
+
+.containerDefault--pIXnN * {
+	font-size: 13px;
+	padding: 1px;
+}
+
+.membersGroup-v9BXpm {
+	opacity: 0;
+	height: 1px;
+	padding: 8px;
+}
+
+.member-3-YXUe {
+	padding: 0px;
+}
